@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bài tập</string>
+    <string name="txt_helloWorld">Xin chào thế giới</string>
+    <string name="txt_markResult">"Điểm của bạn là: "</string>
+    <string name="txt_checkMark_pass">Làm tốt lắm bạn vượt qua.</string>
+    <string name="txt_checkMark_fail">Xin lỗi, bạn đã thất bại.</string>
+    <string name="txt_checkMark_distinction">Tuyệt vời, bạn có một sự khác biệt.</string>
+</resources>

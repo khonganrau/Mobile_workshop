@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Exercise</string>
+
+    <!-- TextView -->
+    <string name="txt_helloWorld">Hello world</string>
+    <string name="txt_markResult">Your mark is: </string>
+    <string name="txt_checkMark_pass">Well done you passes.</string>
+    <string name="txt_checkMark_fail">Sorry you failed.</string>
+    <string name="txt_checkMark_distinction">Brilliant you got a distinction.</string>
+</resources>
